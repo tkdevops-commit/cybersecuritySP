@@ -7,7 +7,7 @@
 Study Topics:
 	•	Networking Basics:
 	•	What is a network?
-	•	Types of networks (LAN, WAN, MAN, WLAN, etc.).
+	•	Types of networks (LAN, WAN, MAN, WLAN, etc.)
 	•	OSI Model (Layers 1–7) and TCP/IP Model.
 	•	Common Network Devices: Switches, routers, access points, firewalls.
 	•	IP Addressing:

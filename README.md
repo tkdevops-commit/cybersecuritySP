@@ -12,7 +12,7 @@ Study Topics:
 	•	Common Network Devices: Switches, routers, access points, firewalls.
 	•	IP Addressing:
 	•	IPv4 vs. IPv6.
-	•	Subnetting basics.
+	•	Subnetting basics
 	•	Networking Protocols: TCP, UDP, DNS, DHCP, HTTP/HTTPS, FTP, SNMP.
 	•	Cabling and Connectors: Ethernet types, fiber optics, connectors (RJ-45, RJ-11).
 

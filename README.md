@@ -4,17 +4,7 @@
 - Watch videos from Professor Messer's N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
 - Complete any related practice questions or exercises.
 
-Study Topics:
-	•	Networking Basics:
-	•	What is a network?
-	•	Types of networks (LAN, WAN, MAN, WLAN, etc.).
-	•	OSI Model (Layers 1–7) and TCP/IP Model.
-	•	Common Network Devices: Switches, routers, access points, firewalls.
-	•	IP Addressing:
-	•	IPv4 vs. IPv6.
-	•	Subnetting basics
-	•	Networking Protocols: TCP, UDP, DNS, DHCP, HTTP/HTTPS, FTP, SNMP.
-	•	Cabling and Connectors: Ethernet types, fiber optics, connectors (RJ-45, RJ-11).
+
 
 
 ## Day 8-14: Security+

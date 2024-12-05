@@ -2,7 +2,7 @@
 
 ## Day 1-7: Network+
 - Watch videos from Professor Messer's N10-008 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G
-- Complete any related practice questions or exercises
+- Complete any related practice questions or exercises.
 
 
 

@@ -5,6 +5,7 @@
 - Complete any related practice questions or exercises
 
 
+
 ## Day 8-14: Security+
 - Watch videos from Professor Messer's SYO-601 Playlist: https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8
 - Complete any related practice questions or exercises.
